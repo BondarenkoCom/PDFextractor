@@ -1,0 +1,8 @@
+{
+  "pdfPath": "\\SpecFlowPdfReader\\PdfFiles\\",
+  "zipPath": "\\SpecFlowPdfReader\\JsonResult\\resultFromPDF.zip",
+  "targetForResultExtractedJSON": "\SpecFlowPdfReader\JsonResult\",
+  "jsonPath": "\\SpecFlowPdfReader\\JsonResult\\structuredData.json",
+  "AdobeCredPath": "\\SpecFlowPdfReader\\bin\\Debug\\net6.0\\Resourses\\pdfservices-api-credentials.json",
+  "logPath": "\SpecFlowPdfReader\SpecFlowPdfReader\Reports\"
+}
